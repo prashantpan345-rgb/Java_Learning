@@ -1,3 +1,5 @@
+package _1_Hashmap;
+
 import java.util.*;
 
 public class Session6 {
