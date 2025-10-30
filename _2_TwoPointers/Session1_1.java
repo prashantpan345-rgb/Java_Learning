@@ -23,7 +23,7 @@ Two approaches are demonstrated:
 
 import java.util.Scanner;
 
-public class Session1 {
+public class Session1_1 {
 
     // -------------------- BRUTE FORCE METHOD --------------------
     /*
